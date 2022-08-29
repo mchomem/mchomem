@@ -16,7 +16,7 @@ Frameworks
      </a>
 </div>
 
-<br/>
+##
 
 Frontend
 <div style="display: inline_block">
@@ -27,8 +27,9 @@ Frontend
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
     </a>
 </div>
- <br/>
- 
+
+##
+
 Backend
 <div style="display: inline_block">
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
@@ -36,7 +37,8 @@ Backend
     </a>    
 </div>
 
-<br/>
+##
+
 RDBMS's
 <div style="display: inline_block">
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">

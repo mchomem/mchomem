@@ -4,7 +4,7 @@
 <p align="left"></p>
 
 <div align="center">
-  <a href="https://github.com/TheAwesomeStorm">
+  <a href="https://github.com/mchomem">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchomem&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
     

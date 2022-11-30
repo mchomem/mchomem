@@ -3,6 +3,11 @@
 
 <p align="left"></p>
 
+<div>
+  <a href="https://github.com/TheAwesomeStorm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mchomem&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
+    
 <h3 align="left">Technologies:</h3>
 <br />
 

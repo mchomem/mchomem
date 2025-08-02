@@ -21,7 +21,7 @@
 [![Back-end Development Skills](https://skillicons.dev/icons?i=dotnet,angular,vue,bootstrap)](https://github.com/mchomem)
 
 ### Tools
-[![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,rider,eclipse,docker,postman,git,github,figma)](https://github.com/mchomem)
+[![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,azure,rider,eclipse,docker,postman,git,github,figma)](https://github.com/mchomem)
 
 ### Database
 [![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis)](https://github.com/mchomem)

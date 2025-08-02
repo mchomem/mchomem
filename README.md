@@ -15,14 +15,17 @@
 [![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,typescript,jquery)](https://github.com/mchomem)
 
 ### Back-end
-[![Back-end Development Skills](https://skillicons.dev/icons?i=cs,dotnet,java,kafka,rabbitmq)](https://github.com/mchomem)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=cs,java,kafka,rabbitmq)](https://github.com/mchomem)
 
 ### Frameworks
 [![Back-end Development Skills](https://skillicons.dev/icons?i=dotnet,angular,vue,bootstrap)](https://github.com/mchomem)
 
 ### Tools
-[![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,rider,eclipse,docker,postman,git,github,figma,azure)](https://github.com/mchomem)
+[![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,rider,eclipse,docker,postman,git,github,figma,azure,discord,linkedin)](https://github.com/mchomem)
 
 ### Database
 [![Database Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis)](https://github.com/mchomem)
 <img alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+
+### SO
+[![Database Skills](https://skillicons.dev/icons?i=windows,linux)](https://github.com/mchomem)

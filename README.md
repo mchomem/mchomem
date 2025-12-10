@@ -28,4 +28,4 @@
 <img alt="SQLServer" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 
 ### SO
-[![Database Skills](https://skillicons.dev/icons?i=windows,linux)](https://github.com/mchomem)
+[![Database Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://github.com/mchomem)

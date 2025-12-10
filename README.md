@@ -9,7 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchomem&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
-<h2 align="center">Technologies I Work With</h2>
+<h2 align="center">Technologies I've Worked With</h2>
 
 ### Front-end
 [![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,typescript,jquery)](https://github.com/mchomem)

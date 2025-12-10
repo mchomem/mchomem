@@ -18,7 +18,7 @@
 [![Back-end Development Skills](https://skillicons.dev/icons?i=cs,java,kafka,rabbitmq)](https://github.com/mchomem)
 
 ### Frameworks
-[![Back-end Development Skills](https://skillicons.dev/icons?i=dotnet,angular,vue,bootstrap)](https://github.com/mchomem)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=dotnet,angular,vue,bootstrap,nodejs)](https://github.com/mchomem)
 
 ### Tools
 [![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,rider,eclipse,docker,postman,git,github,figma,azure,discord,linkedin)](https://github.com/mchomem)

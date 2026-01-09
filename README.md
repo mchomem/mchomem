@@ -29,3 +29,14 @@
 
 ### SO
 [![Database Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://github.com/mchomem)
+
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mchomem&theme=github-dark" width="100%" />
+</p>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/misael-da-costa-homem-8b07a158/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>

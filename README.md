@@ -15,7 +15,7 @@
 [![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,typescript,jquery)](https://github.com/mchomem)
 
 ### Back-end
-[![Back-end Development Skills](https://skillicons.dev/icons?i=cs,java,kafka,rabbitmq)](https://github.com/mchomem)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=cs,java,python,kafka,rabbitmq)](https://github.com/mchomem)
 
 ### Frameworks
 [![Back-end Development Skills](https://skillicons.dev/icons?i=dotnet,angular,vue,bootstrap,nodejs)](https://github.com/mchomem)

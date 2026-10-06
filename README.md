@@ -21,7 +21,7 @@
 [![Back-end Development Skills](https://skillicons.dev/icons?i=dotnet,angular,vue,bootstrap,nodejs)](https://github.com/mchomem)
 
 ### IDE's & Tools
-[![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,rider,eclipse,docker,kubernetes,postman,git,github,figma,azure)](https://github.com/mchomem)
+[![Development Tools](https://skillicons.dev/icons?i=visualstudio,vscode,rider,eclipse,docker,kubernetes,postman,git,github,figma,azure,npm)](https://github.com/mchomem)
 
 ### Communication
 [![Development Tools](https://skillicons.dev/icons?i=discord,linkedin)](https://github.com/mchomem)
